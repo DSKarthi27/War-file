@@ -33,7 +33,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="about-col-1">
-					<img src="C:\Users\User\OneDrive\Desktop\htmlbatch\Protofolio\IMG_78956.jpg">
+					<img src="src/main/webapp/IMG_78956.jpg">
 				</div>
 				<div class="about-col-2">
 					<h1 class="sub-title">About Me</h1>
